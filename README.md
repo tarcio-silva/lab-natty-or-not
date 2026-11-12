@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# História Econômica e Política dos Presidentes do Brasil (1985 a 2026
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video sobre o desempenho dos presidentes do Brasil desde o pereiodo da redemocrizacao ate o ano de 2026. Sao levantados aspectos como economia, desenvolvimento social e seguranca nesse periodo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini e DeeVid
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Gemini para gerar o roteiro e prompt de entrada para geracao do video
+DeeVid para geracao do video
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Video de 5s crado, limitado devido aos creditos gratuitos
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O maior desafio foi refinir o prompt de entrada para geracao do video de forma que a saida corresponda a proposta desejada.
 ```
 
 ### Exemplos e Insigths
